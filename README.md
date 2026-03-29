@@ -32,7 +32,7 @@ A Laravel package that integrates with Jetstream and Livewire to provide a reusa
 ## Requirements
 
 - PHP 8.2+
-- Laravel 12.x
+- Laravel 12.x+ 
 - Livewire 3.x or 4.x
 - Jetstream 5.x
 
